@@ -1,4 +1,4 @@
-## Interface: 110005, 40400
+## Interface: 110005, 40401
 ## Title: RSA
 ## Notes: Easy Spell Announcements!
 ## Author: Raeli
